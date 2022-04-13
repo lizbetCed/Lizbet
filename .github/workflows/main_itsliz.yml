@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'itsliz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_423128C1A4664192AC392915F6CFC336 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B39FE7E265A4D369CD5F15814CC4E82 }}
           package: '*.jar'
